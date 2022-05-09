@@ -59,7 +59,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - (![dailyscrum](https://user-images.githubusercontent.com/104415392/167464573-28819376-585f-4daa-95b7-54097a3feead.png))
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]!![miro](https://user-images.githubusercontent.com/104415392/167486962-67419318-6cbf-4e1f-94a8-65f1279ab7f7.PNG)
+![Backlog 1]!![Kanban Framework](https://user-images.githubusercontent.com/104415392/167491529-c8cc513c-e750-4ca2-98fb-0756030cce4e.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]![urun_gorunumu](https://user-images.githubusercontent.com/104415392/167465584-5188f3af-a8db-4e58-8ed1-45b2273eee55.jpeg)
