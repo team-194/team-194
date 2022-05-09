@@ -12,7 +12,7 @@ Team-194
 
 ## Ürün İsmi
 
---Henüz kararlaştırılmadı--
+--gezizmir--
 
 ## Ürün Açıklaması
 
@@ -38,7 +38,7 @@ Team-194
 
 ## Product Backlog URL
 
-[Trello Backlog Board] (https://trello.com/invite/b/UTsr1VjU/f346191d5b550982c8c022b86cb5f8e6/backblog)
+[Miro Backlog Board] (https://miro.com/app/board/uXjVO2HIVow=/?share_link_id=386775824338)
 
 ---
 
@@ -52,13 +52,14 @@ Team-194
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar devam emekte olan işleri (task) gösterirken, yeşil item'lar tamamlanmış işleri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının daha kolay olması sebebiyle Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg ve doc olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 - (![dailyscrum](https://user-images.githubusercontent.com/104415392/167464573-28819376-585f-4daa-95b7-54097a3feead.png))
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]!![trello](https://user-images.githubusercontent.com/104415392/167466621-6a9ae560-0bb9-40b3-9228-6c9133accb42.PNG)
+![Backlog 1]!![miro](https://user-images.githubusercontent.com/104415392/167486962-67419318-6cbf-4e1f-94a8-65f1279ab7f7.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]![urun_gorunumu](https://user-images.githubusercontent.com/104415392/167465584-5188f3af-a8db-4e58-8ed1-45b2273eee55.jpeg)
@@ -72,7 +73,9 @@ Zeynep Akar
 Aysim Taneli
 
 - **Sprint Retrospective:**
-  
+  - Arayüz tasarımının tekrar gözden geçirilmeli
+  - sprint planlama toplantılarında alınan kararların daha sıkı takip edilmeli
+   
 
 -**Diğer Notlar**:
 - N/A
