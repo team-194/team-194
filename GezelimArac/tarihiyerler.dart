@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Lokasyon extends StatelessWidget {
-  const Lokasyon({Key? key}) : super(key: key);
+class tarihiyerler extends StatelessWidget {
+  const tarihiyerler({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -14,8 +14,9 @@ class Lokasyon extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'Gezilecek Yerler',
+                'Tarihi Yerler',
                 style: TextStyle(
+                  color: Colors.black38,
                   fontSize: 22.0,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 1.5,
@@ -24,7 +25,7 @@ class Lokasyon extends StatelessWidget {
               Text(
                 'Devamı',
                 style: TextStyle(
-                  color: Colors.teal,
+                  color: Colors.black38,
                   fontSize: 16.0,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 1.0,
@@ -36,7 +37,11 @@ class Lokasyon extends StatelessWidget {
 
         Container(
           height: 200.0,
-          color: Colors.grey[800],
+          decoration: BoxDecoration(
+              color: Colors.white70,
+              borderRadius: BorderRadius.circular(40.0)
+
+          ),
         ),
       ],
     );
