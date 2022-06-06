@@ -120,11 +120,43 @@ Uygulamayı görsel olarak nasıl daha iyi hale getirebiliriz üstüne düşün�
 İçerikte kullanılan fotoğrafların telif haklarının araştırılması
 
 -**Diğer Notlar**:
-
 N/A
 
 ---
 
 # Sprint 3
+
+**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+**Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 200 puanlık backlog bulunmaktadır. Son springe bütün takım üyelerinin üniversite final dönemimiz denk geldiği için yapılması beklenn iş 30 puana denk gelmektedir.
+
+**Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+**Daily Scrum**: Daily Scrum toplantılarının daha kolay olması sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![image](https://user-images.githubusercontent.com/104415392/172236098-7b11cbd2-576d-4161-bc85-d1ce69ef7fa6.png)
+![image](https://user-images.githubusercontent.com/104415392/172236289-7d66aadd-b428-440f-ae47-306ea9d853aa.png)
+
+(dailyscrum)
+
+**Sprint board update**: Sprint board screenshotları:
+![image](https://user-images.githubusercontent.com/104415392/172243974-7dc9255c-1594-4202-b49c-f836207398e8.png)
+
+
+**Ürün Durumu**: Ekran görüntüleri: ![arayuz_2](https://user-images.githubusercontent.com/104415392/169640716-e2453480-4cf1-45fc-9cb5-6beab467ff7e.jpeg)
+![arayuz_1](https://user-images.githubusercontent.com/104415392/169640717-1d35a7c3-dd45-4b03-b762-22faa7fffc9a.jpeg)
+
+**Sprint Review**:  Final dönemi nedeniyle proje de çok ilerleme kaydedilemedi. 
+
+**Sprint Review katılımcıları**: Beyza Ökten Zeynep Akar Aysim Taneli
+
+**Sprint Retrospective**:
+Ürün hala yapım aşamasında, tam olarak bitmedi.
+
+**-Diğer Notlar**:
+Ürün bitmeyen haliyle sunulacak.
 
 ---
